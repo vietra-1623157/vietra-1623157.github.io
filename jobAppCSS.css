@@ -1,0 +1,19 @@
+div{
+	background-color: #EBB3A7;
+}
+
+p{
+	font-family: "Courier New"; color: white; font-style: italic;
+}
+
+h1{
+	font-size: 40px; color: #FFBC00; font-family: "Passion One"; margin-bottom: 0px;
+}
+
+legend{
+	font-size: 14px; color: #00FFFF; font-family: "Courier New";
+}
+
+body{
+	background-image: url('background.jpeg');
+}
