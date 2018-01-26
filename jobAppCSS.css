@@ -1,19 +1,19 @@
 div{
-	background-color: #EBB3A7;
+	background-color: white;
 }
 
 p{
-	font-family: "Courier New"; color: white; font-style: italic;
+	font-family: "Courier New"; color: purple; font-style: italic;
 }
 
 h1{
-	font-size: 40px; color: #FFBC00; font-family: "Passion One"; margin-bottom: 0px;
+	font-size: 40px; color: purple; font-family: "Passion One"; margin-bottom: 0px;
 }
 
 legend{
-	font-size: 14px; color: #00FFFF; font-family: "Courier New";
+	font-size: 14px; color: purple; font-family: "Courier New";
 }
 
 body{
-	background-image: url('background.jpeg');
+	background-image: url('background.jpg');
 }
